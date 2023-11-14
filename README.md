@@ -10,6 +10,8 @@ I have learned a lot of things in these projects. I have learned about these fun
   <br>--Access Specifiers/Access Modifiers (Public, Private, Protected)
   <br>--Formal and Actual Arguments/Parameters
   <br>--Constructor
+  <br>--Class OR Static Variables
+  <br>--Instance Variables
 
 Some detailed description about my projects. Either I didn't use comments in some of my codes.
  <br>-- Use of Lowercase Titles: Using lowercase titles and checking availability in a case-insensitive manner is a good approach to ensure robust functionality.
